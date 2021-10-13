@@ -1,0 +1,56 @@
+.textcontener {
+  text-align: center;
+  margin: 60px;
+  font-family: monospace;
+}
+.textcontener p {
+  margin-right: 18%;
+  margin-left: 18%;
+  font-size: 15px;
+}
+h1 {
+  font-size: 45px;
+}
+
+.boxeswrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.items {
+  padding: 20px;
+  margin: 40px;
+  width: 220px;
+  height: 410px;
+  box-shadow: -2px 2px 20px -2px rgba(0, 0, 0, 0.1);
+
+  border-top-style: solid;
+  border-width: 2.5px;
+  border-color: orange;
+  border-radius: 5px;
+}
+
+.headandiconcontener {
+  text-align: center;
+}
+
+#icon,
+#icon2,
+#icon3 {
+  border-bottom-style: solid;
+  padding: 10px;
+  border-width: 2.5px;
+  border-color: orange;
+  font-size: 28px;
+}
+
+h3 {
+  text-shadow: 2px 2px 2px rgb(190, 187, 187);
+  font-size: 18px;
+  font-family: fantasy;
+}
+
+.paragraphs {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
