@@ -15,33 +15,42 @@
   padding: 50px;
 }
 
-.buttoninput {
-}
+/* {
+}*/
+
 #b1 {
-  background-color: rgb(68, 66, 66);
-  border-radius: 12px;
+  background-color: rgb(90, 88, 88);
+  
   padding: 10px 20px;
+  
 }
 #b2 {
   background-color: gray;
-  border-radius: 12px;
+  
 }
 #b3 {
   background-color: rgb(197, 186, 186);
-  border-radius: 12px;
+  
 }
 
 .wrapperforbuttons {
   display: flex;
   justify-content: center;
+  
 }
+
+.wrapperforbuttons button {
+border: 0px;
+border-radius: 12px;
+}
+
 #todowrapper {
   text-decoration: line-through;
   background-color: rgba(128, 128, 128, 0.158);
 }
 
-body {
-}
+/*body {
+}*/
 
 button:hover{
     cursor: pointer;
