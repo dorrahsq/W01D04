@@ -53,4 +53,6 @@ h3 {
 .paragraphs {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  font-weight: 100;
+  color: rgb(105, 104, 104);
 }
