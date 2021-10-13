@@ -20,28 +20,24 @@
 
 #b1 {
   background-color: rgb(90, 88, 88);
-  
+
   padding: 10px 20px;
-  
 }
 #b2 {
   background-color: gray;
-  
 }
 #b3 {
   background-color: rgb(197, 186, 186);
-  
 }
 
 .wrapperforbuttons {
   display: flex;
   justify-content: center;
-  
 }
 
 .wrapperforbuttons button {
-border: 0px;
-border-radius: 12px;
+  border: 0px;
+  border-radius: 12px;
 }
 
 #todowrapper {
@@ -52,6 +48,6 @@ border-radius: 12px;
 /*body {
 }*/
 
-button:hover{
-    cursor: pointer;
+button:hover {
+  cursor: pointer;
 }
