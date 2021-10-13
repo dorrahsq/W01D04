@@ -1,0 +1,43 @@
+.divcontener {
+  background-color: rgb(197, 186, 186);
+  /* width: 50%; */
+  height: 50%;
+  padding: 50px;
+}
+
+.boxwrapper {
+  background-color: white;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  /* margin: 10px 10px; */
+  border-radius: 6%;
+  padding: 50px;
+}
+
+.buttoninput {
+}
+#b1 {
+  background-color: rgb(68, 66, 66);
+  border-radius: 12px;
+}
+#b2 {
+  background-color: gray;
+  border-radius: 12px;
+}
+#b3 {
+  background-color: rgb(197, 186, 186);
+  border-radius: 12px;
+}
+
+.wrapperforbuttons {
+  display: flex;
+  justify-content: center;
+}
+#todowrapper {
+  text-decoration: line-through;
+  background-color: rgba(128, 128, 128, 0.158);
+}
+
+body {
+}
